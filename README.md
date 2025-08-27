@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 📫 How to reach me **bhandarishalender22@gmail.com**
+
 
 - ⚡ Fun fact **I write Poetries .**
 
